@@ -1,6 +1,4 @@
-
-
-![SILENT PRNTER — Music / Linux / AI](assets/silent-prnter-banner.png)
+<img width="2172" height="724" alt="silent-prnter-banner" src="https://github.com/user-attachments/assets/50893901-6ae9-4a58-bec4-c8fe3275b0d8" />
 
 **Music. Linux. AI. Making things work together.**
 
