@@ -1,4 +1,5 @@
-<img width="2172" height="724" alt="silent-prnter-banner" src="https://github.com/user-attachments/assets/50893901-6ae9-4a58-bec4-c8fe3275b0d8" />
+<img width="2172" height="724" alt="7c1ec8ea-63b1-4c92-a906-e46f2c82ad97" src="https://github.com/user-attachments/assets/d3168ecd-5c5c-4de5-9d49-ba5c30869b58" />
+
 
 **Music. Linux. AI. Making things work together.**
 
